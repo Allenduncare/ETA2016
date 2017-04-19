@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\az101\\AndroidStudioProjects\\ETA_CS9033_AllenZheng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\create_trip.xml",
+        "source": "C:\\Users\\az101\\AndroidStudioProjects\\ETA_CS9033_AllenZheng\\app\\src\\main\\res\\layout\\create_trip.xml"
+    },
+    {
+        "merged": "C:\\Users\\az101\\AndroidStudioProjects\\ETA_CS9033_AllenZheng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_trip.xml",
+        "source": "C:\\Users\\az101\\AndroidStudioProjects\\ETA_CS9033_AllenZheng\\app\\src\\main\\res\\layout\\view_trip.xml"
+    },
+    {
+        "merged": "C:\\Users\\az101\\AndroidStudioProjects\\ETA_CS9033_AllenZheng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewformat.xml",
+        "source": "C:\\Users\\az101\\AndroidStudioProjects\\ETA_CS9033_AllenZheng\\app\\src\\main\\res\\layout\\listviewformat.xml"
+    },
+    {
+        "merged": "C:\\Users\\az101\\AndroidStudioProjects\\ETA_CS9033_AllenZheng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\triplist.xml",
+        "source": "C:\\Users\\az101\\AndroidStudioProjects\\ETA_CS9033_AllenZheng\\app\\src\\main\\res\\layout\\triplist.xml"
+    },
+    {
+        "merged": "C:\\Users\\az101\\AndroidStudioProjects\\ETA_CS9033_AllenZheng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\az101\\AndroidStudioProjects\\ETA_CS9033_AllenZheng\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
